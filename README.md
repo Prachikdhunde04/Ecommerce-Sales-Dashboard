@@ -48,5 +48,7 @@ Created by **Prachi Khojraj Dhunde**
 📩 Email: [prachidhunde@gmail.com](mailto:prachidhunde@gmail.com)  
 💼 LinkedIn: [Prachi Dhunde](https://www.linkedin.com/in/prachi-dhunde-408b2825a/)
 
+## 🔗 Live Power BI Dashboard
 
+[![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/links/LzVNQDDCZA?ctid=29445a0c-1e49-466b-ae33-10695b703c93&pbi_source=linkShare)
 
