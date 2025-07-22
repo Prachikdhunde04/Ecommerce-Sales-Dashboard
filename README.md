@@ -34,7 +34,7 @@ This project is a dynamic and interactive **Sales Dashboard** built using **Micr
 
 ## 📸 Preview
 
-![Dashboard Preview](./sc)
+![Dashboard Preview](./Screenshot%20(79).png)
 
 ## 📌 Future Enhancements
 
