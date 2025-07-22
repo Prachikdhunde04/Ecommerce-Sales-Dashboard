@@ -52,3 +52,5 @@ Created by **Prachi Khojraj Dhunde**
 
 [![View Dashboard](https://img.shields.io/badge/View%20Dashboard-Power%20BI-blue?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/links/LzVNQDDCZA?ctid=29445a0c-1e49-466b-ae33-10695b703c93&pbi_source=linkShare)
 
+👉 [Click here to view the interactive dashboard](https://app.powerbi.com/links/LzVNQDDCZA?ctid=29445a0c-1e49-466b-ae33-10695b703c93&pbi_source=linkShare)
+
