@@ -46,7 +46,7 @@ This project is a dynamic and interactive **Sales Dashboard** built using **Micr
 
 Created by **Prachi Khojraj Dhunde**  
 📩 Email: [prachidhunde@gmail.com](prachidhunde@gmail.com)
-🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🐙 GitHub: [https://github.com/Prachikdhunde04](https://github.com/Prachikdhunde04))
+🔗 LinkedIn: [https://linkedin.com/in/prachi-dhunde-408b2825a](https://www.linkedin.com/in/prachi-dhunde-408b2825a)  
+🐙 GitHub: [https://github.com/Prachikdhunde04](https://github.com/Prachikdhunde04)
 
 
